@@ -1,17 +1,19 @@
 # I am -- Sharbel Chaak --
 
 ### Who are you?
-> A computer-science undergraduate(Expected 2024) with experience in **_Frontend_**, **_PHP_**, **_Java_** and, **_C_**.
+> A computer science undergraduate(Expected 2024) with varying experience in **_C_**, vanilla **_Frontend\*_**, **_PHP_**, **_Java_**, **_Golang_**, **_ASP.NET\*_**, **_Godot Engine_**, **_Android Studio\*_**, **_Flutter\*_**, **_Unity Engine_**, and the ability to pick up new skills at great speeds!
 ### But is that enough?
 > Not for me. _Balance is my key to life_, and I have _yet_ to reach it.  
-> ---Currently working hard to gain further experience in **_Frontend_** **and** **_backend_**.
+> ---Currently working hard to gain further experience in **_Backend_** **and** **_Frontend_**.
+> ---Exploring multiple paths before picking one to specialize in.
 ### And what about you?
-> I am a person who values honesty and respect above all else.  
-> ---With a passion for programming since youth and ambitions to grow further, my ultimate dream & goal is to create a beautiful family! _Beauty in Simplicity!_  
-> ---My hobbies are mostly centered around reading new things. From novels to science documentaries. I'm aspiring to go out of my comfort zone and try new things (or pick up old ones) such as hiking and/ or fishing.
+> I am a person who values honesty and good above all else. (Perhaps too good for my own benefit sometimes, but that is my code)
+> ---With a passion for programming since youth and aspirations to further my knowledge in the field, my ultimate dream & goal is... to create a beautiful family! (Expectedly or otherwise, it is my honest dream.)
+> ---My hobbies are mostly centered around reading, writing, and learning new things. I aspire to go out of my comfort zone and try new things (or pick up old ones) such as hiking or fishing.
+> ---To explore a thousand worlds. To delve into a thousand minds. My love for reading and writing is both a hobby and a companion.
 
 ### Is that all?
-> That is all worth mentioning for now. I have a lot more going on for me(Like all people do!) and so I'll make sure to update accordingly!
+> This is all that is worth mentioning for now. I have a lot going on for me(Like all people do!), so I'll update accordingly!
 
 <!--
 
