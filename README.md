@@ -1,7 +1,10 @@
 # I am -- Sharbel Chaak --
 
 ### Who are you?
-> A computer science undergraduate(Expected 2024) with varying experience in **_C_**, vanilla **_Frontend\*_**, **_PHP_**, **_Java_**, **_Golang_**, **_ASP.NET\*_**, **_Godot Engine_**, **_Android Studio\*_**, **_Flutter\*_**, **_Unity Engine_**, and the ability to pick up new skills at great speeds!
+> A computer science graduate with varying experience in **_C_**, vanilla **_Frontend\*_**, **_PHP_**, **_Java_**, **_Golang_**, **_ASP.NET\*_**, **_Godot Engine_**, **_Android Studio\*_**, **_Flutter\*_**, **_Unity Engine_**, and the ability to pick up new skills at great speeds!
+
+Currently interested in game dev, and focusing on Godot.
+<!--
 ### But is that enough?
 > Not for me. _Balance is my key to life_, and I have _yet_ to reach it.  
 > ---Currently working hard to gain further experience in **_Backend_** **and** **_Frontend_**.
@@ -14,7 +17,7 @@
 
 ### Is that all?
 > This is all that is worth mentioning for now. I have a lot going on for me(Like all people do!), so I'll update accordingly!
-
+-->
 <!--
 
 #### Check out my humble Roadmap progress!
